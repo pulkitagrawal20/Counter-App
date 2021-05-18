@@ -3,5 +3,5 @@
     <string name="dec">-</string>
     <string name="zero">0</string>
     <string name="inc">+</string>
-    <string name="my_counter">my_counter</string>
+    <string name="my_counter">My Counter</string>
 </resources>
